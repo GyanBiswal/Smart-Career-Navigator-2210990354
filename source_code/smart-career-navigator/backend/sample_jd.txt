@@ -1,0 +1,44 @@
+Senior Data Scientist – Machine Learning Platform
+
+About the Role
+--------------
+We are looking for a Senior Data Scientist to join our growing AI/ML team. You will
+design, build, and deploy machine learning models that power our recommendation engine
+and real-time analytics products. You'll collaborate closely with engineering, product,
+and business stakeholders to translate complex data problems into impactful solutions.
+
+Responsibilities
+----------------
+- Design and implement machine learning models (classification, regression, NLP).
+- Build and maintain end-to-end data pipelines using Apache Spark and Airflow.
+- Deploy models at scale on AWS using Docker and Kubernetes.
+- Write clean, well-documented Python code with a focus on reproducibility.
+- Partner with data engineers to maintain data quality in our Snowflake warehouse.
+- Communicate findings clearly to technical and non-technical audiences.
+
+Required Skills & Qualifications
+---------------------------------
+- 4+ years of experience in data science or machine learning roles.
+- Strong Python programming skills (pandas, NumPy, scikit-learn).
+- Experience with deep learning frameworks: PyTorch or TensorFlow.
+- Hands-on knowledge of natural language processing (NLP) techniques.
+- Familiarity with SQL and NoSQL databases (PostgreSQL, MongoDB).
+- Experience deploying models on AWS (SageMaker, EC2, S3).
+- Proficiency with Docker and Kubernetes for containerised deployments.
+- Understanding of CI/CD pipelines (GitHub Actions, Jenkins).
+- Strong statistical analysis and hypothesis testing background.
+- Excellent communication and leadership skills.
+
+Nice to Have
+------------
+- Experience with Apache Kafka for streaming data.
+- Knowledge of dbt and data warehouse best practices.
+- Contributions to open-source projects or published research.
+- Familiarity with MLOps tools (MLflow, Weights & Biases).
+
+What We Offer
+-------------
+- Competitive salary and equity.
+- Flexible remote / hybrid work policy.
+- Annual learning budget of $2,000.
+- Health, dental, and vision coverage.
